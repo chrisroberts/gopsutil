@@ -13,7 +13,7 @@ import (
 	"unsafe"
 
 	"github.com/shirou/gopsutil/cpu"
-	"github.com/shirou/gopsutil/internal/common"
+	"github.com/chrisroberts/gopsutil/internal/common"
 	"github.com/shirou/gopsutil/net"
 	"golang.org/x/sys/unix"
 )
